@@ -1,0 +1,7 @@
+C:\Users\DesertBoss\Desktop\ReizTechAssignment\TaskOne\bin\Debug\TaskOne.exe.config
+C:\Users\DesertBoss\Desktop\ReizTechAssignment\TaskOne\bin\Debug\TaskOne.exe
+C:\Users\DesertBoss\Desktop\ReizTechAssignment\TaskOne\bin\Debug\TaskOne.pdb
+C:\Users\DesertBoss\Desktop\ReizTechAssignment\TaskOne\obj\Debug\TaskOne.csproj.AssemblyReference.cache
+C:\Users\DesertBoss\Desktop\ReizTechAssignment\TaskOne\obj\Debug\TaskOne.csproj.CoreCompileInputs.cache
+C:\Users\DesertBoss\Desktop\ReizTechAssignment\TaskOne\obj\Debug\TaskOne.exe
+C:\Users\DesertBoss\Desktop\ReizTechAssignment\TaskOne\obj\Debug\TaskOne.pdb

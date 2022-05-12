@@ -1,0 +1,7 @@
+C:\Users\DesertBoss\Desktop\ReizTechAssignment\TaskTwo\bin\Debug\TaskTwo.exe.config
+C:\Users\DesertBoss\Desktop\ReizTechAssignment\TaskTwo\bin\Debug\TaskTwo.exe
+C:\Users\DesertBoss\Desktop\ReizTechAssignment\TaskTwo\bin\Debug\TaskTwo.pdb
+C:\Users\DesertBoss\Desktop\ReizTechAssignment\TaskTwo\obj\Debug\TaskTwo.csproj.AssemblyReference.cache
+C:\Users\DesertBoss\Desktop\ReizTechAssignment\TaskTwo\obj\Debug\TaskTwo.csproj.CoreCompileInputs.cache
+C:\Users\DesertBoss\Desktop\ReizTechAssignment\TaskTwo\obj\Debug\TaskTwo.exe
+C:\Users\DesertBoss\Desktop\ReizTechAssignment\TaskTwo\obj\Debug\TaskTwo.pdb
